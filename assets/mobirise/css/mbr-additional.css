@@ -2114,6 +2114,33 @@ a {
   background-color: #ab9c3f;
   overflow: hidden;
 }
+.cid-uxqDHmrtZM {
+  padding-top: 10rem;
+  padding-bottom: 4rem;
+  background-color: #ffd268;
+}
+.cid-uxqDHmrtZM .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-uxqDHmrtZM form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-uxqDHmrtZM form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-uxqDHmrtZM form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-uxqYVnNZ9B {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ab9c3f;
+  overflow: hidden;
+}
 .cid-tJS6tZXiPa {
   z-index: 1000;
   width: 100%;
@@ -2673,31 +2700,4 @@ a {
   .cid-tJS6tZXiPa .navbar-collapse {
     padding: 1rem;
   }
-}
-.cid-uxqDHmrtZM {
-  padding-top: 10rem;
-  padding-bottom: 4rem;
-  background-color: #ffd268;
-}
-.cid-uxqDHmrtZM .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-uxqDHmrtZM form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-uxqDHmrtZM form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-uxqDHmrtZM form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-uxqYVnNZ9B {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ab9c3f;
-  overflow: hidden;
 }
